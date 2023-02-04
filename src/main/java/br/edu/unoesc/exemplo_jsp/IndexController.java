@@ -1,5 +1,4 @@
 package br.edu.unoesc.exemplo_jsp;
-
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
